@@ -1,0 +1,7 @@
+vars:
+  hosts:
+
+
+HQ-RTR:
+  host:
+    ansible 
